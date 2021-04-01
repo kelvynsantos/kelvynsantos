@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kelvynsantos
+- 👀 I’m interested in JAVA,Python,C/C++,Web Development, Linux,RPA, and others stuffs 
+- 🌱 I’m currently learning Java,C/C++,Web Development and a little bit of Linux
+- 📫 How to reach me: email :kelvynsantos10@outlook.com, Linkedin: https://www.linkedin.com/in/kelvyn-santos-0b54a6140/
